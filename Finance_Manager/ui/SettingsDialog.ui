@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SettingsDialog</class>
+ <widget class="QDialog" name="SettingsDialog">
+  <property name="windowTitle"><string>Settings</string></property>
+  <layout class="QVBoxLayout">
+   <item><widget class="QLabel" name="lbl"><property name="text"><string>Settings placeholder (change password, theme, export/import)</string></property></widget></item>
+  </layout>
+ </widget>
+</ui>

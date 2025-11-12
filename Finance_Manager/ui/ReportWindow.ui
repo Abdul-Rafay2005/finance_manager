@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ReportWindow</class>
+ <widget class="QDialog" name="ReportWindow">
+  <property name="windowTitle"><string>Reports</string></property>
+  <layout class="QVBoxLayout">
+    <item>
+      <widget class="QLabel" name="lblNotice"><property name="text"><string>Reports (placeholder) — implement QtCharts or QCustomPlot for graphs</string></property></widget>
+    </item>
+  </layout>
+ </widget>
+</ui>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="windowTitle"><string>Finance Manager</string></property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QListWidget" name="listNavigation">
+      <item><property name="text"><string>Dashboard</string></property></item>
+      <item><property name="text"><string>Transactions</string></property></item>
+      <item><property name="text"><string>Categories</string></property></item>
+      <item><property name="text"><string>Reports</string></property></item>
+      <item><property name="text"><string>Settings</string></property></item>
+     </widget>
+    </item>
+    <item>
+     <widget class="QStackedWidget" name="stackedWidget">
+      <widget class="QWidget" name="pageDashboard">
+        <layout class="QVBoxLayout" name="v1">
+          <item>
+            <widget class="QLabel" name="lblSummary"><property name="text"><string>Summary: (placeholder)</string></property></widget>
+          </item>
+          <item>
+            <widget class="QTableWidget" name="tableRecent"><property name="columnCount"><number>4</number></property></widget>
+          </item>
+        </layout>
+      </widget>
+      <widget class="QWidget" name="pageTransactions"/>
+      <widget class="QWidget" name="pageCategories"/>
+      <widget class="QWidget" name="pageReports"/>
+      <widget class="QWidget" name="pageSettings"/>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
