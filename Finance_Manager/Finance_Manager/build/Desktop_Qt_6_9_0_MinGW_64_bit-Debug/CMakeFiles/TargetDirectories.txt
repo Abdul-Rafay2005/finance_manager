@@ -1,9 +1,0 @@
-C:/projects/Finance_Manager/Finance_Manager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/FinanceManager.dir
-C:/projects/Finance_Manager/Finance_Manager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/projects/Finance_Manager/Finance_Manager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/projects/Finance_Manager/Finance_Manager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/projects/Finance_Manager/Finance_Manager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/projects/Finance_Manager/Finance_Manager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/projects/Finance_Manager/Finance_Manager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/projects/Finance_Manager/Finance_Manager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/FinanceManager_autogen_timestamp_deps.dir
-C:/projects/Finance_Manager/Finance_Manager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/FinanceManager_autogen.dir
